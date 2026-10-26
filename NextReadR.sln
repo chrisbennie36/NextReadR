@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextReadR.Data", "NextReadR.Data\NextReadR.Data.csproj", "{5BDB5E1A-AFF3-4ADC-AB3E-0A86DF4A8A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextReadR.AI", "NextReadR.AI\NextReadR.AI.csproj", "{9F96B688-EB9C-48F7-8B71-6012A8A2F2F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextReadR.App", "NextReadR.App\NextReadR.App.csproj", "{317C20F3-B4B9-4B75-87E0-71137B62C709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDB5E1A-AFF3-4ADC-AB3E-0A86DF4A8A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDB5E1A-AFF3-4ADC-AB3E-0A86DF4A8A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDB5E1A-AFF3-4ADC-AB3E-0A86DF4A8A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDB5E1A-AFF3-4ADC-AB3E-0A86DF4A8A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F96B688-EB9C-48F7-8B71-6012A8A2F2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F96B688-EB9C-48F7-8B71-6012A8A2F2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F96B688-EB9C-48F7-8B71-6012A8A2F2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F96B688-EB9C-48F7-8B71-6012A8A2F2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317C20F3-B4B9-4B75-87E0-71137B62C709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317C20F3-B4B9-4B75-87E0-71137B62C709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317C20F3-B4B9-4B75-87E0-71137B62C709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317C20F3-B4B9-4B75-87E0-71137B62C709}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
